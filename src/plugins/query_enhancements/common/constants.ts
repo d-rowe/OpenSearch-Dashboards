@@ -16,6 +16,7 @@ export const DATASET = {
 export const SEARCH_STRATEGY = {
   PPL: 'ppl',
   PPL_RAW: 'pplraw',
+  PROMQL: 'promql',
   SQL: 'sql',
   SQL_ASYNC: 'sqlasync',
   PPL_ASYNC: 'pplasync',
